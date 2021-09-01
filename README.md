@@ -18,6 +18,9 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/vikram-kumar-73905b141" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vikram-kumar-73905b141" height="30" width="40" /></a>
+<a href="https://instagram.com/vikii.joya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="vikii.joya" height="30" width="40" /></a>
+<a href="https://dribbble.com/thedesignscorner" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="thedesignscorner" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/vikram_bse18" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="vikram_bse18" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
